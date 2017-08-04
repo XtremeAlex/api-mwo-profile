@@ -130,7 +130,7 @@ public class Utente implements java.io.Serializable {
 		this.data = data;
 	}
 
-	// :TODO NO PASSWORD
+	//TODO: NO PASSWORD
 	@Override
 	public String toString() {
 		return "Utente [urlLogIn=" + urlLogIn + ", urlProfile=" + urlProfile + ", urlStats=" + urlStats
