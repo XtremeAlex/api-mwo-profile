@@ -2,7 +2,7 @@
 
 Backend di gestione profili (modulo `mwo_controller`): API REST in Java EE con RESTEasy (JAX-RS).
 
-## Stack
+## Stack tecnologico
 
 - Java EE (JAX-RS / RESTEasy)
 - Maven
@@ -22,10 +22,6 @@ Coppia backend/frontend:
 
 - `api-mwo-profile` — questo modulo: API / controller
 - `mwo_app_profile` — interfaccia utente
-
-## License
-
-Vedi `LICENSE`.
 
 ## Contatti
 
