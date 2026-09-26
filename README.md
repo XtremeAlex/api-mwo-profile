@@ -1,6 +1,6 @@
-# xtr-profile-api
+# api-mwo-profile
 
-Backend di gestione profili: API REST in Java EE con RESTEasy (JAX-RS).
+Backend di gestione profili per **MechWarrior Online (MWO)**: API REST in Java EE con RESTEasy (JAX-RS).
 
 ## Stack tecnologico
 
@@ -20,8 +20,8 @@ L'artefatto prodotto va rilasciato su un application server compatibile Java EE 
 
 Coppia backend/frontend:
 
-- `xtr-profile-api` — questo modulo: API / controller
-- `xtr-profile-ui` — interfaccia utente
+- `api-mwo-profile` — questo modulo: API / controller
+- `app-mwo-profile` — interfaccia utente
 
 ## License
 
