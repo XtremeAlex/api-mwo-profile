@@ -1,6 +1,6 @@
-# api-mwo-profile
+# xtr-profile-api
 
-Backend di gestione profili (modulo `mwo_controller`): API REST in Java EE con RESTEasy (JAX-RS).
+Backend di gestione profili: API REST in Java EE con RESTEasy (JAX-RS).
 
 ## Stack tecnologico
 
@@ -20,8 +20,8 @@ L'artefatto prodotto va rilasciato su un application server compatibile Java EE 
 
 Coppia backend/frontend:
 
-- `api-mwo-profile` — questo modulo: API / controller
-- `mwo_app_profile` — interfaccia utente
+- `xtr-profile-api` — questo modulo: API / controller
+- `xtr-profile-ui` — interfaccia utente
 
 ## License
 
