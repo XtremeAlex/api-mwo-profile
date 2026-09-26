@@ -23,6 +23,10 @@ Coppia backend/frontend:
 - `api-mwo-profile` — questo modulo: API / controller
 - `mwo_app_profile` — interfaccia utente
 
+## License
+
+Distribuito sotto licenza MIT. Vedi il file [`LICENSE`](LICENSE). Ogni riuso deve mantenere l'attribuzione all'autore.
+
 ## Contatti
 
 Andrei Alexandru Dabija — [LinkedIn](https://www.linkedin.com/in/andrei-alexandru-dabija/) — [github.com/XtremeAlex](https://github.com/XtremeAlex)
